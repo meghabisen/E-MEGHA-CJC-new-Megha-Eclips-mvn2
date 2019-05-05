@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suitetext" duration-ms="7796" started-at="2019-02-17T07:17:36Z" finished-at="2019-02-17T07:17:44Z">
+    <groups>
+    </groups>
+    <test name="Testexample" duration-ms="7796" started-at="2019-02-17T07:17:36Z" finished-at="2019-02-17T07:17:44Z">
+      <class name="Mavendemo2.com.MVNClass">
+        <test-method status="PASS" signature="openbrowser()[pri:0, instance:Mavendemo2.com.MVNClass@5b275dab]" name="openbrowser" is-config="true" duration-ms="6176" started-at="2019-02-17T07:17:30Z" finished-at="2019-02-17T07:17:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method status="PASS" signature="siteopen()[pri:0, instance:Mavendemo2.com.MVNClass@5b275dab]" name="siteopen" is-config="true" duration-ms="3629" started-at="2019-02-17T07:17:36Z" finished-at="2019-02-17T07:17:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- siteopen -->
+        <test-method status="PASS" signature="maximizebrowser()[pri:0, instance:Mavendemo2.com.MVNClass@5b275dab]" name="maximizebrowser" is-config="true" duration-ms="1138" started-at="2019-02-17T07:17:39Z" finished-at="2019-02-17T07:17:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- maximizebrowser -->
+        <test-method status="PASS" signature="getallCookie()[pri:0, instance:Mavendemo2.com.MVNClass@5b275dab]" name="getallCookie" is-config="true" duration-ms="22" started-at="2019-02-17T07:17:41Z" finished-at="2019-02-17T07:17:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getallCookie -->
+        <test-method status="PASS" signature="Loginwithvaliddetails()[pri:0, instance:Mavendemo2.com.MVNClass@5b275dab]" name="Loginwithvaliddetails" duration-ms="2567" started-at="2019-02-17T07:17:41Z" finished-at="2019-02-17T07:17:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Loginwithvaliddetails -->
+        <test-method status="PASS" signature="Screenshot()[pri:0, instance:Mavendemo2.com.MVNClass@5b275dab]" name="Screenshot" is-config="true" duration-ms="383" started-at="2019-02-17T07:17:43Z" finished-at="2019-02-17T07:17:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Screenshot -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:Mavendemo2.com.MVNClass@5b275dab]" name="afterClass" is-config="true" duration-ms="0" started-at="2019-02-17T07:17:44Z" finished-at="2019-02-17T07:17:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="deletecookies()[pri:0, instance:Mavendemo2.com.MVNClass@5b275dab]" name="deletecookies" is-config="true" duration-ms="11" started-at="2019-02-17T07:17:44Z" finished-at="2019-02-17T07:17:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deletecookies -->
+        <test-method status="PASS" signature="closebrowser()[pri:0, instance:Mavendemo2.com.MVNClass@5b275dab]" name="closebrowser" is-config="true" duration-ms="128" started-at="2019-02-17T07:17:44Z" finished-at="2019-02-17T07:17:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- Mavendemo2.com.MVNClass -->
+    </test> <!-- Testexample -->
+  </suite> <!-- Suitetext -->
+</testng-results>
